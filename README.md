@@ -26,3 +26,4 @@ Epochs for training:
 Cardiac Detection:
 It indicates size and position of the heart. Cardiomyopathy which is disease of the cardiac muscle which midght lead to heart failure or blood clots often comes with the size of the heart. Pneumorothox and Atelctasis which both leads to collapse of the lungs are sometimes accompanied by a change in position of the heart. Therefore, early detection reduces the risk and long term consequences. The dataset used to train the model is imported from RSNA pneumonia detection challenge containing 496 X-Ray Images. Link - https://www.kaggle.com/competitions/rsna-pneumonia-detection-challenge/data.
 
+jfijicih
