@@ -21,3 +21,7 @@ Adam with learning rate 1e-4
 Epochs for training:
 30
 
+
+
+Cardiac Detection:
+
