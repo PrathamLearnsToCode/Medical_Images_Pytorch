@@ -43,6 +43,7 @@ Steps taken for pre-processing the raw data->
 4. Standardize the normalized subject into the interval [0,1]
 5. Use 16 patients as training data and the remaining 4 for validation
 
+
 Task:
 1.Create a list of all 2D slices
 2.Extract and load slice coreesponding label mask
